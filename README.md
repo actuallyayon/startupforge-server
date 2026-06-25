@@ -61,4 +61,4 @@ See [.env.example](.env.example). Key ones:
 `users`, `startups`, `opportunities`, `applications`, `payments`.
 
 ## License
-MIT
+StartupForge
